@@ -1,0 +1,19 @@
+# Jupyter and Python temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Local Python environments
+.venv/
+venv/
+
+# macOS files
+.DS_Store
+
+# Local datasets
+*.csv
+*.tsv
+
+# Local environment configuration
+.env
+.env.*
